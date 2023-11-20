@@ -1,0 +1,32 @@
+.container {
+  height: 100vh;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #0f172a;
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+
+.para {
+  color: #334155;
+  font-size: 32px;
+  font-family: 'roboto';
+}
+
+.button {
+  height: 40px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  color: #1e293b;
+  background-color: #ffffff;
+  font-weight: 700;
+  font-family: 'roboto';
+}
